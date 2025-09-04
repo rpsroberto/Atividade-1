@@ -2,7 +2,7 @@
 name = "api-aluno"
 version = "0.1.0"
 description = "API simples para atividade"
-authors = ["Seu Nome <seu.email@exemplo.com>"]
+authors = ["Roberto Pereira de Sousa <otaltorob@hotmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
