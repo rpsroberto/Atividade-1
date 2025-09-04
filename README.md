@@ -19,7 +19,7 @@ Esta é uma API simples construída com Flask que fornece dois endpoints GET.
 1. Clone o repositório:
 ```bash
 git clone <https://github.com/rpsroberto/Atividade-1.git>
-cd api-rpsroberto 
+cd Api-aluno
 #Roberto Pereira de Sousa (37016176)
 #Uninassau
 #4° Semestre 
