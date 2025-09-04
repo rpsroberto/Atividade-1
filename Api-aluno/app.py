@@ -16,12 +16,12 @@ def health_check():
 def get_student_info():
     """Endpoint para retornar informações do aluno"""
     student_info = {
-        "nome": "Seu Nome Completo",
-        "email": "seu.email@exemplo.com",
-        "curso": "Nome do Seu Curso",
-        "GitHub": "https://github.com/seu-usuario",
-        "cidade": "Sua Cidade",
-        "interesses": ["programação", "tecnologia", "outros interesses"]
+        "nome": "Roberto Pereira de Sousa",
+        "email": "Otaltorob@hotmail.com",
+        "curso": "Sistemas de Informação",
+        "GitHub": "https://github.com/rpsroberto",
+        "cidade": "Juazeiro do Norte - CE",
+        "interesses": ["programação", "tecnologia", "Backend", "APIs", "Flask", "Python"]
     }
     return jsonify(student_info)
 
